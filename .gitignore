@@ -1,0 +1,14 @@
+# Build and dependency artifacts
+node_modules/
+dist/
+.astro/
+
+# Environment variables
+.env
+.env.production
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
